@@ -9,7 +9,7 @@
  <li><a href='https://emojitool.com/pt/female-technologist-type-5'>👩🏾‍💻</a> Natural de Salvador-BA, morando em São Paulo-SP/Brasil</li>
  <li><a href='https://emojitool.com/pt/graduation-cap'>🎓</a> Atualmente estudo desenvolvimento web full Stack e Kotlin </li> na <acd>[Digital Innovation One]
  (https://web.digitalinnovation.one/home)</acd>
- 
+ <a href='http
  <li>👯 Estou procurando oportunidades de emprego como Desenvolvedora de Software Junior
 <li>⚡ Aprendiz, iniciante, defensora de inclusao de mulheres na Ti, defensora de práticas **SÓLIDAS** e Desenvolvimento Ágil</li>
 <b>

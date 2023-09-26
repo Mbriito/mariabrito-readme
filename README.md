@@ -1,4 +1,5 @@
-## <span style='color:FF00F6;'>*Maria G C Brito*</span> <a href="https://www.dio.me/"><img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"> </a>
+
+## <span style='color:FF00F6;'>*Maria G C Brito*</span> <a href="https://www.flaticon.com/br/icone-gratis/desenvolvedor_1508880?related_id=1508843&origin=search"><img align="center" width="80px" src=https://cdn-icons-png.flaticon.com/512/1508/1508880.png> </a>
 
 ## <span style='color:FF00F6;'>Graduação</span> <a href='https://emojitool.com/pt/books'>📚</a> 
 <span style='color:Violet;'>Centro Universitario Dom Pedro II</span>

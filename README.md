@@ -1,52 +1,57 @@
-<h1>Olá, eu sou  Maria G C de Brito <a href='https://emojitool.com/pt/waving-hand-sign'>👋</a>
-</h1> 
+## <span style='color:FF00F6;'>*Maria G C Brito*</span> <a href="https://www.dio.me/"><img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"> </a>
 
-<h3>Sejam bem vindo ao meu perfil
-<a href='https://emojitool.com/pt/trade-mark-sign'>™️</a></h3>
-<p style="margin-bottom:4px,solid,black">Quero fazer parte dessa evolução que a tecnologia tem nos proporcionado, neste intuito venho aprofundando meus conhecimentos.</p></h1>
+## <span style='color:FF00F6;'>Graduação</span> <a href='https://emojitool.com/pt/books'>📚</a> 
+<span style='color:Violet;'>Centro Universitario Dom Pedro II</span>
+<a href='https://dompedroead.com.br/'>Unidompedro</a><a href='https://emojitool.com/pt/trade-mark-sign'>™️</a></h2>
 
-<h2>Sobre mim:</h2>
- <li><a href='https://emojitool.com/pt/female-technologist-type-5'>👩🏾‍💻</a> Natural de Salvador-BA, morando em São Paulo-SP/Brasil</li>
- <li><a href='https://emojitool.com/pt/graduation-cap'>🎓</a> Atualmente estudo desenvolvimento web full Stack e Kotlin </li> na <acd>[Digital Innovation One]
- (https://web.digitalinnovation.one/home)</acd>
+
+## <span style='color:FF00F6;'>Sobre</span>
+ <a href='https://emojitool.com/pt/female-technologist-type-5'>👩🏾‍💻</a> <span style='color:Violet;'>Natural de Salvador-BA, morando em São Paulo-SP</span>
+
  
- <li>👯 Estou procurando oportunidades de emprego como Desenvolvedora de Software Junior
-<li>⚡ Aprendiz, iniciante, defensora de inclusao de mulheres na Ti, defensora de práticas **SÓLIDAS** e Desenvolvimento Ágil</li>
-<b>
-<h2>Graduação <a href='https://emojitool.com/pt/books'>📚</a></h2>
-<li>Bacharel em Sistemas de Informação - 
- UNIDOMPEDRO
- <a>https://dompedroead.com.br/</a>
- </b>
- <h2>Linguagens e ferramentas que tenho conhecimento</h2>
+ ## <span style='color:FF00F6;'>Hard Skills</span>
+![HTML](https://img.shields.io/badge/HTML5--000?style=for-the-badge&logo=HTML5&logoColor=FF00F6)
+![CSS](https://img.shields.io/badge/CSS--000?style=for-the-badge&logo=CSS3&logoColor=FF00F6)
+![JS](https://img.shields.io/badge/JavaScript--000?style=for-the-badge&logo=JavaScript&logoColor=FF00F6)
+![JAVA](https://img.shields.io/badge/Java--000?style=for-the-badge&logo=java&logoColor=FF00F6)
+![Python](https://img.shields.io/badge/Python--000?style=for-the-badge&logo=python&logoColor=FF00F6)
+![C#](https://img.shields.io/badge/C%23--000?style=for-the-badge&logo=c-sharp&logoColor=FF00F6)
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/vscode.png"><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/vscode.png" style="max-width:100%;"></a></p>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mbriito&bg_color=000&border_color=FF00F6&layout=compact&title_color=FF00F6&text_color=FFF)
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/html5.png"><img align="left" alt="HTML5" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/html5.png" style="max-width:100%;"></a></p>
+## <span style='color:FF00F6;'>Status GitHub</span>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/css3.png"><img align="left" alt="CSS3" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/css3.png" style="max-width:100%;"></a></p>
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mbriito&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/javascript.png"><img align="left" alt="JavaScript" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/javascript.png" style="max-width:100%;"></a></p>
+## <span style='color:FF00F6;'>Sistemas Operacionais </span>OS
+
+<div>
+    <img align="center" alt="Linux" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    <img align="center" alt="Ubuntu" height="35" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
+    <img align="center" alt="Windows" height="35" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+</div>
+
+## <span style='color:FF00F6;'>Banco de Dados</span>
+<div>
+     <img alt="PostgreSQL" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+    <img alt="MySQL" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <img alt="SQLite" height="50" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
+</div>
+
+## <span style='color:FF00F6;'>Soft Skills</span>
+![Communicative](https://img.shields.io/badge/Communicative--000?style=for-the-badge=logoColor=FF00F6&color:FFF)
+![Proactive](https://img.shields.io/badge/Proactive--000?style=for-the-badge=logoColor=FF00F6&color:FFF)
+![Organized](https://img.shields.io/badge/Organized--000?style=for-the-badge=logoColor=FF00F6&color:FFF)
+![Empathetic](https://img.shields.io/badge/Empathetic--000?style=for-the-badge=logoColor=FF00F6&color:FFF)
 
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/react.png"><img align="left" alt="React" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/react.png" style="max-width:100%;"></a></p>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/git.png"><img align="left" alt="Git" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/git.png" style="max-width:100%;"></a></p>
-
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/github.png"><img align="left" alt="GitHub" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/github.png" style="max-width:100%;"></a></p>
-
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/github.png"><img align="left" alt="GitHub" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/python.png" style="max-width:100%;"></a></p>
-
-<p><a target="_blank" href='https://icon-icons.com/pt/icone/prog-django/50802'><img aling="left" alt="icon-incons" width="26px" src="https://cdn.icon-icons.com/icons2/512/PNG/512/prog-django_icon-icons.com_50802.png" style="max-width:100%;"></a></p>
-
-<p><a target="_blank" href='https://icon-icons.com/pt/icone/arquivo-tipo-vue/130078'><img aling="left" alt="icon-incons" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" style="max-width:100%;"></a></p> 
-<p><a target="_blank" rel="noopener noreferrer" href="https://icon-icons.com/pt/icone/atlassian-jira-logo/170511"><img aling="left" alt="icon-incons" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" style="max-width:100%;"></a></p>
-
-* <h2>Contate-me<h2>
-
-[<img align="left" alt="Maria G C Brito | LinkedIn" width="22px" src="https://cdn.icon-icons.com/icons2/31/PNG/256/sociallinkedin_member_2751.png">](https://www.linkedin.com/in/maria-das-gra%C3%A7as-brito-21b34527/)
-[<img align="left" alt="Maria G C Brito | Email" width="22px" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png">](mailto:mariabrito070@gmail.com)
-
-<br />
+## <span style='color:FF00F6;'>Meus contatos</span>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/maria-g-c-brito/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/grabritto/)
+[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF)](https://www.youtube.com/@mariabrito8)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=FF00F6&color:FFF)](https://www.discord.com/in/mariabrito./)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](https://mail.google.com/mail/u/0/#inbox/)
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=FF00F6&color:FFF)](https://github.com/Mbriito)
 
 

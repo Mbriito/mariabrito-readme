@@ -3,7 +3,8 @@
 
 ## <span style='color:Violet;'>Graduação</span> <a href='https://emojitool.com/pt/books'>📚</a> 
 <span style='color:Violet;'>Centro Universitario Dom Pedro II</span>
-<a href='https://dompedroead.com.br/'>Unidompedro</a><a href='https://emojitool.com/pt/trade-mark-sign'>™️</a>                      ###<span style='color:Violet;'>Sistemas de Informação</span></h2>
+<a href='https://dompedroead.com.br/'>Unidompedro</a><a href='https://emojitool.com/pt/trade-mark-sign'>™️</a>  
+<span style='color:Violet;'>Sistemas de Informação</span></h2>
 
 
 
